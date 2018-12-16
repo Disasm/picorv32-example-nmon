@@ -1,0 +1,3 @@
+[submodule "picorv32-rt"]
+	path = picorv32-rt
+	url = https://github.com/Disasm/picorv32-rt
